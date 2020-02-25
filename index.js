@@ -14,3 +14,5 @@ function deleteFromObjectByKey(object,key) {
   newObj;
   object;
 }
+
+function deleteFromObjectBy
